@@ -1,0 +1,27 @@
+body {
+    background-color: red;
+    color: yellow;
+}
+h1 {
+    font-family: "Arial Black";
+    text-align: center;
+}
+#burgImg{
+    display: block;
+    margin: auto;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container2{
+    text-align: center;
+}
+ul {
+    list-style-image: url('../img/wrongBurgerIcon.png');
+    padding-left: 16px;
+   
+}
+button:active{
+    background-color: rgb(68, 68, 87);
+}

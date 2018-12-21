@@ -1,0 +1,1 @@
+INSERT INTO burgers (burger_name) VALUES ("Double Steakburger"),("Wisconsin Buttery Burger"),("Frisco Prime Burger")
